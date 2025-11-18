@@ -1,5 +1,5 @@
 # Claude Token Burn Session: Python Economics & Modelling
-**Time Available:** ~2 hours  
+**Time Available:** ~8 hours  
 **Budget:** $250 Claude API tokens  
 **Date:** [Today's date]
 
